@@ -1,0 +1,410 @@
+{
+  "basics": {
+    "name": "Muhammad Ali Akhtar Bin Md Hayrani",
+    "headline": "",
+    "email": "aliakhtarmdh@gmail.com",
+    "phone": "+60137881780",
+    "location": "Kajang, Selangor, Malaysia",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocLqMy8HJ0dOYk4RCtjEMGjaHAQZn_PA0oi1AwgoNPq8mkS-Sw=s96-c",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": true
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Skilled software developer passionate about creating innovative solutions to drive business growth and enhance user experiences. Experienced in backend and web development, eager to contribute to dynamic projects and collaborate with cross-functional teams. Committed to continuous learning and staying updated with the latest technologies.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "cf5jlguw7aes0d0p9b050e4b",
+          "visible": true,
+          "name": "AWS Certified Cloud Practitioner",
+          "issuer": "Amazon Web Services (AWS)",
+          "date": "October 2025",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.credly.com/badges/af81ec52-9bea-4188-9e5f-995f8716ab40/public_url"
+          }
+        },
+        {
+          "id": "q0r12c52vimuk2rvvivelftx",
+          "visible": true,
+          "name": "Bootdev - Learn SQL",
+          "issuer": "Bootdev",
+          "date": "April 2025",
+          "summary": "<p>To solidify my knowledge base</p><p></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.boot.dev/certificates/a860dfee-9dc1-4345-b934-522c9b2ab8d0"
+          }
+        },
+        {
+          "id": "ucjgeh3jszw5yv58v90oe3s7",
+          "visible": true,
+          "name": "Bootdev - Learn Javascript",
+          "issuer": "Bootdev",
+          "date": "March 2025",
+          "summary": "<p>To solidify my knowledge base</p><p></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.boot.dev/certificates/fc0e993f-bc63-49dc-a65c-e434637b3820"
+          }
+        },
+        {
+          "id": "nrf73wmhbg2hu2b2uo1ttokx",
+          "visible": true,
+          "name": "Master Laravel 11 & PHP: From Beginner to Advanced",
+          "issuer": "Udemy",
+          "date": "December 2024",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.udemy.com/certificate/UC-fcce5fe4-409d-4c06-9ea5-4272224b006d/"
+          }
+        },
+        {
+          "id": "miildariyf2tsj7ma7n15qig",
+          "visible": true,
+          "name": "Netflix Data Analysis Using Pandas and Data Visualization Workshop",
+          "issuer": "Nexperts Academy Sdn Bhd",
+          "date": "August 2024",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "mdwg5mibpydcayc1ogy3s7om",
+          "visible": true,
+          "institution": "International Islamic University Malaysia (IIUM) ",
+          "studyType": "Degree",
+          "area": "Bachelor of Engineering in Electronic-Computer and Information",
+          "score": "3.47 CGPA",
+          "date": "2021",
+          "summary": "<p>Awarded the Dean's List distinction for academic excellence for four semesters during my study years.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "y83g56m9ssgtvwlx3uamy4ic",
+          "visible": true,
+          "institution": "IIUM Centre for Foundation Studies",
+          "studyType": "Foundation",
+          "area": "Foundation in Engineering",
+          "score": "3.25 CGPA",
+          "date": "2016",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ltbed4qc0hfxvzoo4qv0x9s5",
+          "visible": true,
+          "company": "Bank Muamalat Malaysia Berhad",
+          "position": "API Engineer (Contract)",
+          "location": "",
+          "date": "July 2025 - Present",
+          "summary": "<ul><li><p>Assisted in troubleshooting customer-facing application issues by reviewing system logs provided by the DevOps/IT team, helping to identify potential root causes and improve service reliability.</p></li><li><p>Supported deployment and potential disaster recovery (DR) efforts by contributing to initial root cause analysis (RCA), despite limited access to the codebase or database.</p></li><li><p>Helped improve internal troubleshooting workflows by identifying a recurring issue, which led to a more structured approach for handling customer support cases.</p></li><li><p>Provided guidance to junior developers on SDLC concepts and project management practices from a developer’s perspective, contributing to team development.</p></li><li><p>Participated in an internal ideathon focused on enhancing Centralized Operations Team (COT) processes, where I proposed an AI chatbot concept to assist in narrowing down and resolving customer issues using technical knowledge bases. The idea was well-received and selected as the winning proposal, supported by a working proof-of-concept and presentation.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "beixzysdcpmv5u5hdgsrco6r",
+          "visible": true,
+          "company": "Hayat Technology Sdn Bhd",
+          "position": "Software Developer",
+          "location": "",
+          "date": "July 2021 - June 2025",
+          "summary": "<ul><li><p>Developed and maintained backend services, APIs, and web applications using Python, PHP, HTML, CSS, and JavaScript. </p></li><li><p>Designed and developed scalable backend solutions for CRM systems and web applications using SlimPHP, FastAPI, and Laravel.</p></li><li><p>Migrated applications from older PHP versions to modern, optimized environments.</p></li><li><p>Designed and implemented database schemas, optimized SQL queries, and performed CRUD operations. </p></li><li><p>Utilised SLIM Rest API for managing JSON data and collaborated on frontend development. </p></li><li><p>Managed admin portal and contributed to feature implementation and bug fixing, collaborating with cross-functional teams. </p></li><li><p>Supported the design of table structures and API development for mobile applications. </p></li><li><p>Assisted with data cleaning, entry, and processing tasks and provided technical support to the Customer Support and Operation Team</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "c5r6yaqo20o1xim0ccc6e03x",
+          "visible": true,
+          "company": "Hayat Technologies Sdn Bhd",
+          "position": "Data Engineer Intern",
+          "location": "",
+          "date": "February 2021 - June 2021",
+          "summary": "<ul><li><p>Assisted in data cleaning, data entry, and data processing tasks. </p></li><li><p>Provided assistance to web developer by maintaining websites developed using WordPress.</p></li><li><p>Provided on-site assistance to the Operational Team for Product Deployment.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": []
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "iqqgj6embavhfzi0gtdh2303",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "muhammadaliakhtar",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/muhammadaliakhtar"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "g4f7sdn9kcrhhnle018rr8sq",
+          "visible": true,
+          "name": "CRM System",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>Designed and developed a CRM system using Laravel and SlimPHP to manage customer relationships and business workflows.</p></li></ul><ul><li><p>Implemented scalable APIs for seamless data integration and real-time updates.</p></li><li><p>Optimized database performance with indexing and caching strategies.</p></li><li><p>Developed user authentication and role-based access control for secure data management.</p></li><li><p>Integrated reporting and analytics features to provide business insights.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "qtddcbpx2y575bztrnwin9x2",
+          "visible": true,
+          "name": "PDF Data Extraction Script",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>Wrote a Python script to automate the extraction of tabulated data from PDF files containing survey results. </p></li><li><p>Implemented parsing techniques to accurately extract survey data and formatted it for insertion into a database. </p></li><li><p>Streamlined the data entry process, reducing manual effort and improving efficiency in data management.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "fbnx83jqhkdf65wz9s4d85es",
+          "visible": true,
+          "name": "Smart Parking System",
+          "description": "",
+          "date": "",
+          "summary": "<ul><li><p>Designed and implemented a Smart Parking System using React Native and Arduino during academic years. </p></li><li><p>Developed a mobile application to provide real-time parking availability information to users. </p></li><li><p>Integrated Arduino-based sensors to detect parking space occupancy and relay data to the mobile application.</p></li><li><p>Implemented enhanced principles to suggest parking spaces closer to the entrance of the shopping mall, improving user convenience and optimizing parking management.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": [
+        {
+          "id": "dz5oqg45tf07kobexs4mjh9l",
+          "visible": true,
+          "name": "Azri bin Adam",
+          "description": "Team Lead Product Development of Hayat Technologies Sdn Bhd",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "czxg5zdu5cc9tklyqjybis7j",
+          "visible": true,
+          "name": "Arif Amiruddin Bin Yaacob",
+          "description": "Ex - Team Lead Product Development of Hayat Technologies Sdn Bhd",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "vl00m5om57lasobrwvz6fipg",
+          "visible": false,
+          "name": "Danial Haikal",
+          "description": "Ex-Assistant Manager of Hayat Technologies Sdn Bhd",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "skills",
+      "items": [
+        {
+          "id": "omfjhj8wu6gxjm6n569iasa0",
+          "visible": false,
+          "name": "",
+          "description": "",
+          "level": 0,
+          "keywords": ["PHP", "API"]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0284c7"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": ["regular", "italic", "600"],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
