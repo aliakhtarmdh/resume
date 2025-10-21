@@ -31,7 +31,7 @@
           .then(response => response.json())
           .then(data => {
             //document.getElementById('name').textContent = data.name;
-            console.log(data.sections.experience.items[]);
+            console.log(data.sections.experience.items[0]);
           })
           .catch(error => console.error('Error loading JSON:', error));
     </script>
