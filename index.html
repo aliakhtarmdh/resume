@@ -31,7 +31,7 @@
           .then(response => response.json())
           .then(data => {
             //document.getElementById('name').textContent = data.name;
-              document.getElementById('exp1').textContent = data.sections.experience.items[1].summary;
+              document.getElementById('exp1').innerHTML = data.sections.experience.items[1].summary;
             console.log(data.sections.experience.items[1].summary);
           })
           .catch(error => console.error('Error loading JSON:', error));
