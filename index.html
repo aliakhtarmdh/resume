@@ -31,8 +31,8 @@
           .then(response => response.json())
           .then(data => {
             //document.getElementById('name').textContent = data.name;
-            console.log(data.sections.experience.items[0]);
-              console.log('meow');
+              document.getElementById('exp1').textContent = data.sections.experience.items[1].summary;
+            console.log(data.sections.experience.items[1].summary);
           })
           .catch(error => console.error('Error loading JSON:', error));
     </script>
@@ -398,13 +398,14 @@
                         <div>July 2021 - Present</div>
                         <div>Kuala Lumpur, Malaysia</div>
                     </div>
-                    <ul class="list-disc pl-5 space-y-2">
+                    <div id="exp1"></div>
+                    <!-- <ul class="list-disc pl-5 space-y-2">
                         <li>Developed backend services, APIs, and web applications using Laravel, SlimPHP, FastAPI, and frontend technologies.</li>
                         <li>Migrated legacy PHP apps to modern versions, improving stability and performance.</li>
                         <li>Designed database schemas and optimized SQL queries to support scalable CRM and admin portals.</li>
                         <li>Created REST APIs for mobile apps, handled JSON data, and collaborated with frontend teams.</li>
                         <li>Assisted customer support with technical issues and data processing tasks.</li>
-                    </ul>
+                    </ul> -->
                 </div>
                 
                 <!-- Experience 2 -->
