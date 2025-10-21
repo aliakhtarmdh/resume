@@ -25,6 +25,16 @@
             transform: scale(1.2);
         }
     </style>
+
+    <script>
+        fetch('reactive_resume-cm355c04d1rc1zg05vl5086b3.json')  // your JSON file path
+          .then(response => response.json())
+          .then(data => {
+            //document.getElementById('name').textContent = data.name;
+            console.log(data.sections.experience.items[]);
+          })
+          .catch(error => console.error('Error loading JSON:', error));
+    </script>
 </head>
 <body class="font-sans bg-gray-50">
     <!-- Header/Navigation -->
