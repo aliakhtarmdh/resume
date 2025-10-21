@@ -24,6 +24,16 @@
         .social-icon:hover {
             transform: scale(1.2);
         }
+
+        ul {
+          list-style-type: disc;
+          padding-left: 1.25rem; /* same as 'pl-5' in Tailwind */
+          margin-top: 0.5rem;    /* simulate 'space-y-2' effect */
+        }
+        ul li + li {
+          margin-top: 0.5rem;    /* adds spacing between list items */
+        }
+        
     </style>
 
     <script>
