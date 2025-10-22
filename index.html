@@ -24,15 +24,6 @@
         .social-icon:hover {
             transform: scale(1.2);
         }
-
-        ul {
-          list-style-type: disc;
-          padding-left: 1.25rem; /* same as 'pl-5' in Tailwind */
-          margin-top: 0.5rem;    /* simulate 'space-y-2' effect */
-        }
-        ul li + li {
-          margin-top: 0.5rem;    /* adds spacing between list items */
-        }
         
     </style>
 
@@ -42,6 +33,7 @@
           .then(data => {
             //document.getElementById('name').textContent = data.name;
               document.getElementById('exp1').innerHTML = data.sections.experience.items[1].summary;
+              ul.classList.add("list-disc", "pl-5", "space-y-2");
             //console.log(data.sections.experience.items[1].summary);
           })
           .catch(error => console.error('Error loading JSON:', error));
